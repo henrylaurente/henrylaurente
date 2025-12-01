@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 🎓 Certifications
 
-- **Certificate Name** – Issued by Institution, Month Year  
+- **Certificate Name** – Issued by Cognitive Class, December 2025  
   [View Certificate](https://courses.cognitiveclass.ai/certificates/ebf86b032a7a4840a31ace72cafa1c84) 
 
  
