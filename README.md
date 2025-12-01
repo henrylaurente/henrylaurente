@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I started coding because I love solving problems and creating things from scratch!
 
-https://courses.cognitiveclass.ai/certificates/ebf86b032a7a4840a31ace72cafa1c84
+### 🎓 Certifications
+
+- **Certificate Name** – Issued by Institution, Month Year  
+  [View Certificate](https://cognitiveclass.ai/courses/learn-sql-relational-databases)  
+
+ 
 
 
