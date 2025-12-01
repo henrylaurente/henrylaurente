@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I started coding because I love solving problems and creating things from scratch!
+
+### Certifications
+- [Certificate Name]([https://link-to-your-certificate.com](https://courses.cognitiveclass.ai/certificates/ebf86b032a7a4840a31ace72cafa1c84)) - Issued by Institution, Date
+
