@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 About Me
+
 
 🔭 I’m currently working on academic projects, small apps, and improving my coding fundamentals
 
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 🤔 I’m looking for help with improving clean code practices and algorithm problem-solving
 
-💬 Ask me about HTML, CSS, Java, Python, Git/GitHub, or general IT topics
+### 💬 Education
+- **New Era University 2024**
 
 📫 How to reach me: your email here
 
