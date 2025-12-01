@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I started coding because I love solving problems and creating things from scratch!
 
+https://courses.cognitiveclass.ai/certificates/ebf86b032a7a4840a31ace72cafa1c84
 
 
